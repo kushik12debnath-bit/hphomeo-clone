@@ -90,6 +90,10 @@ vercel --prod
 
 Vercel auto-detects Vite, runs `npm run build` and serves `dist`.
 
+## License
+
+MIT © 2026 Kaushik Debnath. See [LICENSE](LICENSE).
+
 ## Disclaimer
 
 This project is an educational UI clone. It is not affiliated with hpHomeo. All appointment, doctor and login data is mocked locally; no requests are sent to a backend.
