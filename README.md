@@ -6,7 +6,7 @@ A pixel-accurate, fully responsive React + Vite + Tailwind CSS recreation of the
 
 ## Live demo
 
-- Vercel: _added after deployment_
+- Vercel: https://hphomeo-clone.vercel.app
 - GitHub: https://github.com/kushik12debnath-bit/hphomeo-clone
 
 ## Features
